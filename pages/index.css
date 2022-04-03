@@ -1,0 +1,21 @@
+@import url("../vendor/normalize.css");
+
+@import url("../blocks/page/page.css");
+
+@import url("../blocks/header/__title/header__title.css");
+
+@import url("../blocks/container/container.css");
+
+@import url("../blocks/todo-wrapper/todo-wrapper.css");
+@import url("../blocks/todo-wrapper/__input/todo-wrapper__input.css");
+@import url("../blocks/todo-wrapper/__description-task/todo-wrapper__description-task.css");
+@import url("../blocks/todo-wrapper/__btn-wrapper/todo-wrapper__btn-wrapper.css");
+@import url("../blocks/todo-wrapper/__btn-add/todo-wrapper__btn-add.css");
+@import url("../blocks/todo-wrapper/__todo-item/todos-wrapper__todo-item.css");
+@import url("../blocks/todo-wrapper/__description/todos-wrapper__description.css");
+@import url("../blocks/todo-wrapper/__buttons/todos-wrapper__buttons.css");
+@import url("../blocks/todo-wrapper/__btn-delete/todos-wrapper__btn-delete.css");
+@import url("../blocks/todo-wrapper/__btn-complete/todos-wrapper__btn-complete.css");
+
+@import url("../blocks/tasks/__title/tasks__title.css");
+

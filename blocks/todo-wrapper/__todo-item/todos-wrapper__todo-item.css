@@ -1,0 +1,24 @@
+.todos-wrapper__todo-item {
+   display: flex;
+   width: 500px;
+   min-height: 50px;
+   border: 1px solid black;
+   border-radius: 5px;
+   margin-bottom: 15px;
+   padding: 10px;
+   background-color: orange;
+}
+
+.todos-wrapper__todo-item.checked {
+   background-color: darkgray;
+   opacity: 0.5;
+}
+
+.todos-wrapper__todo-item.delition {
+   animation: opacity 1s ease-in-out;
+
+}
+
+.todos-wrapper__todo-item:hover {
+   background: rgb(190, 188, 188);
+}

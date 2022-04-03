@@ -1,0 +1,10 @@
+.todos-wrapper__btn-delete {
+   outline: none;
+   border: none;
+   background-color: crimson;
+   color: #ffffff;
+   cursor: pointer;
+   height: 25px;
+   border-radius: 5px;
+   margin-left: 15px;
+}

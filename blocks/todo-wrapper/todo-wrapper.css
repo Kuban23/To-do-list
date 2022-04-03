@@ -1,0 +1,10 @@
+.todo-wrapper {
+   width: 500px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-color: darkgoldenrod;
+   border-radius: 5px;
+   min-height: 40px;
+   padding: 10px;
+}

@@ -1,0 +1,5 @@
+.todos-wrapper__btn-complete {
+   width: 20px;
+   height: 20px;
+   cursor: pointer;
+}

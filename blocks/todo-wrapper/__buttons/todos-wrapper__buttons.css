@@ -1,0 +1,6 @@
+.todos-wrapper__buttons {
+   width: 20%;
+   display: flex;
+   align-items: center;
+   justify-content: flex-end;
+}
